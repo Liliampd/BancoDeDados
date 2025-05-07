@@ -1,2 +1,2 @@
 # BancoDeDados
-Repositório criado para a disciplina: Banco de dados.
+Repositório criado para a disciplina:  Banco de dados.
